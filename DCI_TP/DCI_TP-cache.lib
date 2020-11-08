@@ -250,6 +250,20 @@ X 2 3 100 0 0 L 0 0 1 0 P
 ENDDRAW
 ENDDEF
 #
+# SparkFun_MP3_Breakout-VS1063-eagle-import_FIDUCIAL1X2
+#
+DEF SparkFun_MP3_Breakout-VS1063-eagle-import_FIDUCIAL1X2 JP 0 40 Y Y 1 L N
+F0 "JP" 0 0 50 H I C CNN
+F1 "SparkFun_MP3_Breakout-VS1063-eagle-import_FIDUCIAL1X2" 0 0 50 H I C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 0 50 1 0 10 N
+P 2 1 0 0 -30 30 30 -30 N
+P 2 1 0 0 30 30 -30 -30 N
+ENDDRAW
+ENDDEF
+#
 # SparkFun_MP3_Breakout-VS1063-eagle-import_M10"
 #
 DEF SparkFun_MP3_Breakout-VS1063-eagle-import_M10" JP 0 40 Y Y 1 L N
