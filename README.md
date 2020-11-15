@@ -1,6 +1,6 @@
 # Replica Sparkfun VS1053
 Autor: Jorge Salvador Muñoz
-jorgesmunoz@gmail.com
+jorgesmunoz@gmail.com\n
 Github: jorgesmunoz
 tpfinal-jorgesmunoz created by GitHub Classroom
 
