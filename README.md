@@ -1,5 +1,8 @@
-# TP DCI-jorgesmunoz
+# Replica Sparkfun VS1053
+Autor: Jorge Salvador Muñoz
+jorgesmunoz@gmail.com\n
+Github: jorgesmunoz
 tpfinal-jorgesmunoz created by GitHub Classroom
 
-VS1053 - Sparkfun
-<img src="/pcb/DCI_TP.png" alt="My cool logo"/>
+Replica Sparkfun VS1053 - Vista 3D
+<img src="pcb_replica_VS1053/Replic_VS1053.png" alt="My cool logo"/>
