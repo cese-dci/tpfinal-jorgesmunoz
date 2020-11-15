@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name DCI_TP-rescue)(type Legacy)(uri ${KIPRJMOD}/DCI_TP-rescue.lib)(options "")(descr ""))
+  (lib (name VS1053_customizado)(type Legacy)(uri ${KIPRJMOD}/VS1053_customizado.lib)(options "")(descr ""))
+  (lib (name MP3_VS1053_customizado)(type Legacy)(uri ${KIPRJMOD}/MP3_VS1053_customizado.lib)(options "")(descr ""))
+)
